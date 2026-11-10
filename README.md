@@ -4,7 +4,7 @@ A tiny pixel-art browser game starring **Pixel Valdeande**.
 
 Move the master left and right, catch the falling **BTC**, **ETH** and **VM** coins, and dodge the **phishing hooks**. As you fill your wallet, night turns into day over the Roque Nublo.
 
-**Play it:** https://YOUR-USER.github.io/maravilloso-videojuego/
+**Play it:** [https://YOUR-USER.github.io/maravilloso-videojuego/](https://claudipallares.github.io/maravilloso/)
 
 ## Goal
 Collect at least:
